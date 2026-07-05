@@ -134,6 +134,6 @@ The application displays:
 
 ## 👩‍💻 Author
 
-**Dhruti**
+**Dhruti Chunara**
 
 AI Internship Project – CodSoft
